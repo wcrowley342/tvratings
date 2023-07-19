@@ -1,1 +1,3 @@
 # tvratings
+
+How can i use IMDB data to quickly discover the "best" and "worst" episodes of a tv show...
